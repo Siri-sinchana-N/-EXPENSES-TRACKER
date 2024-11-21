@@ -1,3 +1,5 @@
+https://stellar-bublanina-3fefe8.netlify.app/ - This is the main link of project deployed 
+
 ### **README Structure for Expense Tracker App**
 
 ---
